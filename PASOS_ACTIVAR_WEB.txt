@@ -1,0 +1,17 @@
+PASO 1: VE A "SETTINGS"
+   - Entra a tu repositorio en GitHub.
+   - Arriba del todo, a la derecha, haz clic en la pestaña "Settings" (tiene un icono de engranaje ⚙️).
+
+PASO 2: VE A "PAGES"
+   - En el menú de la izquierda, baja casi hasta el final.
+   - Haz clic en donde dice "Pages" (en la sección "Code and automation").
+
+PASO 3: CAMBIA LA FUENTE (SOURCE)
+   - Verás un título que dice "Build and deployment".
+   - Debajo dice "Source".
+   - Cambia la opción "Deploy from a branch" por "GitHub Actions".
+
+¡LISTO!
+   - Al hacer eso, verás que GitHub empieza a trabajar.
+   - Espera 2 minutos.
+   - Vuelve a esa misma página (Settings > Pages) y verás el enlace de tu web arriba del todo.
